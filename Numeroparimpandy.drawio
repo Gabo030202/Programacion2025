@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="d6YoXZZVQHn7yYF4nCZX">
-    <mxGraphModel>
+    <mxGraphModel dx="839" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N010rBlmYQGw4HTz4X7v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-2" target="N010rBlmYQGw4HTz4X7v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-3" target="N010rBlmYQGw4HTz4X7v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-3" value="Ingrese su numero" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-5" target="N010rBlmYQGw4HTz4X7v-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-9" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N010rBlmYQGw4HTz4X7v-8">
+          <mxGeometry x="-0.224" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-5" target="N010rBlmYQGw4HTz4X7v-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="430" />
+              <mxPoint x="310" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N010rBlmYQGw4HTz4X7v-11">
+          <mxGeometry x="-0.0923" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-5" value="El numero dividio para 2 da residuo 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="370" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-7" target="N010rBlmYQGw4HTz4X7v-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="510" />
+              <mxPoint x="510" y="510" />
+              <mxPoint x="510" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-7" value="El numero es par" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N010rBlmYQGw4HTz4X7v-10" target="N010rBlmYQGw4HTz4X7v-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="500" />
+              <mxPoint x="310" y="500" />
+              <mxPoint x="310" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-10" value="El numero es impar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N010rBlmYQGw4HTz4X7v-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
