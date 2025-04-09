@@ -1,98 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="Dopk1gnTmT2kTfZfCHLD">
-    <mxGraphModel dx="713" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R4Syxa_mexcD-WkNILK0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-1" target="R4Syxa_mexcD-WkNILK0-2">
+        <mxCell id="R4Syxa_mexcD-WkNILK0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-1" target="R4Syxa_mexcD-WkNILK0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4Syxa_mexcD-WkNILK0-1" value="Incio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-2" target="R4Syxa_mexcD-WkNILK0-4">
+        <mxCell id="R4Syxa_mexcD-WkNILK0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-25" target="R4Syxa_mexcD-WkNILK0-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-2" value="Ingrese la base del triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="R4Syxa_mexcD-WkNILK0-25" value="Ingrese la base de su triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="202" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-7" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-4" target="R4Syxa_mexcD-WkNILK0-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="133" as="sourcePoint" />
-            <mxPoint x="440" y="173" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="143" />
-              <mxPoint x="440" y="143" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-4" value="El dato es valido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-6" target="R4Syxa_mexcD-WkNILK0-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="180" />
-              <mxPoint x="600" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-6" value="Ingrese la altura del triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-11" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="R4Syxa_mexcD-WkNILK0-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-8" target="R4Syxa_mexcD-WkNILK0-21">
+        <mxCell id="R4Syxa_mexcD-WkNILK0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-27" target="R4Syxa_mexcD-WkNILK0-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R4Syxa_mexcD-WkNILK0-22">
-          <mxGeometry x="-0.0109" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="R4Syxa_mexcD-WkNILK0-27" value="Ingrese la altura de su triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="309" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-8" value="El dato es valido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-10" target="R4Syxa_mexcD-WkNILK0-12">
+        <mxCell id="R4Syxa_mexcD-WkNILK0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-29" target="R4Syxa_mexcD-WkNILK0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-10" value="Area triangulo=base por altura/2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="R4Syxa_mexcD-WkNILK0-29" value="Area=base por altura dividio para 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-12" value="FIn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="R4Syxa_mexcD-WkNILK0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-31" target="R4Syxa_mexcD-WkNILK0-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.375;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-14" target="R4Syxa_mexcD-WkNILK0-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="80" as="targetPoint" />
-            <mxPoint x="330" y="190" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="330" y="200" />
-              <mxPoint x="330" y="120" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="R4Syxa_mexcD-WkNILK0-31" value="Mostrar area" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-14" value="Ingrese un valor válido" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-21" target="R4Syxa_mexcD-WkNILK0-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="380" as="targetPoint" />
-            <mxPoint x="470" y="350" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-21" value="Ingrese un valor valido" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="R4Syxa_mexcD-WkNILK0-33" value="Fin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
