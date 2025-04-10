@@ -1,41 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="Dopk1gnTmT2kTfZfCHLD">
-    <mxGraphModel dx="1188" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R4Syxa_mexcD-WkNILK0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-1" target="R4Syxa_mexcD-WkNILK0-25">
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZLMkeX_wSnQI868Ix0H-1" target="OZLMkeX_wSnQI868Ix0H-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-1" value="Incio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="374" y="80" width="80" height="80" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-25" target="R4Syxa_mexcD-WkNILK0-27">
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZLMkeX_wSnQI868Ix0H-2" target="OZLMkeX_wSnQI868Ix0H-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-25" value="Ingrese la base de su triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="202" width="120" height="60" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-2" value="Ingrese el valor de la base" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-27" target="R4Syxa_mexcD-WkNILK0-29">
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZLMkeX_wSnQI868Ix0H-4" target="OZLMkeX_wSnQI868Ix0H-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-27" value="Ingrese la altura de su triangulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="309" width="120" height="60" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-4" value="Ingrese el valor de la altura" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-29" target="R4Syxa_mexcD-WkNILK0-31">
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZLMkeX_wSnQI868Ix0H-6" target="OZLMkeX_wSnQI868Ix0H-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-29" value="Area=base por altura dividio para 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-6" value="Area=base por altura dividido para 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Syxa_mexcD-WkNILK0-31" target="R4Syxa_mexcD-WkNILK0-33">
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZLMkeX_wSnQI868Ix0H-8" target="OZLMkeX_wSnQI868Ix0H-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-31" value="Mostrar area" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-8" value="Mostrar el area" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Syxa_mexcD-WkNILK0-33" value="Fin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="OZLMkeX_wSnQI868Ix0H-10" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
